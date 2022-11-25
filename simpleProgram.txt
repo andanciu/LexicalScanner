@@ -1,0 +1,11 @@
+start
+intg a;
+a=10;
+intg b
+b=30;
+intg i;
+intg sum;
+sum=0;
+for(i=a;i<=b;i=i+1)
+{sum=sum+i;}
+output(sum);
